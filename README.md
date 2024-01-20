@@ -1,3 +1,3 @@
 # Capstone_project
 
-Laboratory for collecting data using APIs
+Final laboratories for the 'IBM Data Analyst' course
