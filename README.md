@@ -1,3 +1,3 @@
-# Collecting_Data_Using_APIs
+# Capstone_project
 
 Laboratory for collecting data using APIs
